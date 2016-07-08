@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Joe Cole - English Teacher]]></title>
         <description><![CDATA[Joe Cole - English Teacher]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/joe-cole-english-teacher/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jul 2016 06:57:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 08 Jul 2016 07:00:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/joe-cole-english-teacher/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae688d18-3cc0-4be5-92ed-63282bc194bd.jpg">]]></description>
+            <link>https://thegrid.ai/joe-cole-english-teacher/b24a44a1-04c9-4f36-a110-4af731b95ef7/index.html</link>
+            <guid isPermaLink="false">b24a44a1-04c9-4f36-a110-4af731b95ef7</guid>
+            <pubDate>Fri, 08 Jul 2016 06:59:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hello readers.]]></title>
             <description><![CDATA[<article><h1>Hello readers.</h1><h2>This is a little blog style website about me and the projects I do. My name’s Joe and I’m an English teacher. I’ve been teaching in Guangzhou for four years now, and I’m absolutely loving it.</h2><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/90383b1d-4322-40ce-b946-a587eed1ea2f.jpg"></article>]]></description>
