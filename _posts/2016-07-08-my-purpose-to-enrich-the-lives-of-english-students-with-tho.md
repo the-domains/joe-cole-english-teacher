@@ -1,10 +1,10 @@
 ---
 description: ''
-dateModified: '2016-07-08T17:05:08.559Z'
-datePublished: '2016-07-08T17:05:35.757Z'
+dateModified: '2016-07-10T12:53:01.453Z'
+datePublished: '2016-07-10T12:53:06.591Z'
 title: >-
   My purpose: to enrich the lives of English students with thought-provoking
-  lessons.
+  events and projects.
 author: []
 sourcePath: >-
   _posts/2016-07-08-my-purpose-to-enrich-the-lives-of-english-students-with-tho.md
@@ -15,4 +15,4 @@ inNav: false
 _type: MediaObject
 
 ---
-# **My purpose:** to enrich the lives of English students with thought-provoking lessons.
+# **My purpose:** to enrich the lives of English students with thought-provoking events and projects.
