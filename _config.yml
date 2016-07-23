@@ -12,8 +12,4 @@ color:
     - '#79BD8F'
     - '#00A388'
 name: Joe Cole - English Teacher
-navigation:
-  - id: 98176202-5fad-4916-ab83-07e695dcb785
-    url: 2016-07-23-about-me.html
-    name: About Me
-    type: content
+navigation: []
