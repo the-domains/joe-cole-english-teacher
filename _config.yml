@@ -1,14 +1,14 @@
 layout_spectrum: 0.8645027293823659
-typography_spectrum: 0.41584605700336397
+typography_spectrum: 0.09619628312066197
 color:
-  brandStrength: 0.7149512975011021
-  lightness: 0.6730289831757545
-  saturation: 0.7366471642162651
-  rhythmicContrast: 0.6835737549699843
+  brandStrength: 0.40609478624537587
+  lightness: 0.6876867061946541
+  saturation: 0.038105882704257965
+  rhythmicContrast: 0.15376864094287157
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
 name: Joe Cole - English Teacher
