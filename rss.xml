@@ -4,7 +4,7 @@
         <description><![CDATA[Joe Cole - English Teacher]]></description>
         <link>https://thegrid.ai/joe-cole-english-teacher/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 11:28:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 11:31:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/joe-cole-english-teacher/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/joe-cole-english-teacher/920cdf1a-31ee-430e-87d9-d609a2eaceba/index.html</link>
             <guid isPermaLink="false">920cdf1a-31ee-430e-87d9-d609a2eaceba</guid>
             <pubDate>Sat, 09 Jul 2016 06:18:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Book Recommendation]]></title>
+            <description><![CDATA[<article><h1>Book Recommendation</h1><p>Book recommendation: The Man Who Loved China by Simon Winchester. A splendid biography about Joseph Needham, the eccentric Cambridge professor who discovered just how much China has done for science and the world. A love story between a remarkable man and an incredible country.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/02e4fc71-311e-459b-928d-2adc642f2ea4.jpg"></article>]]></description>
+            <link>https://thegrid.ai/joe-cole-english-teacher/book-recommendation-the-man-who-loved-china-by-simon-winche/index.html</link>
+            <guid isPermaLink="false">66fb8741-9224-4a2b-bdbe-330a083798ea</guid>
+            <pubDate>Sun, 24 Jul 2016 11:31:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[About Me]]></title>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/joe-cole-english-teacher/gpnu-public-speaking-club/index.html</link>
             <guid isPermaLink="false">d0d89f05-a66a-4f5e-a137-443ae9a9df98</guid>
             <pubDate>Sun, 24 Jul 2016 07:25:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/02e4fc71-311e-459b-928d-2adc642f2ea4.jpg" alt="Book recommendation: The Man Who Loved China by Simon Winchester. A splendid biography about Joseph Needham, the eccentric Cambridge professor who discovered just how much China has done for science and the world. A love story between a remarkable man and an incredible country.">]]></description>
-            <link>https://thegrid.ai/joe-cole-english-teacher/book-recommendation-the-man-who-loved-china-by-simon-winche/index.html</link>
-            <guid isPermaLink="false">66fb8741-9224-4a2b-bdbe-330a083798ea</guid>
-            <pubDate>Sat, 23 Jul 2016 06:34:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
