@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-07-24T11:31:10.979Z'
+datePublished: '2016-07-24T13:26:28.528Z'
 sourcePath: >-
   _posts/2016-07-10-book-recommendation-the-man-who-loved-china-by-simon-winche.md
 author: []
 via: {}
-dateModified: '2016-07-24T11:31:09.735Z'
+dateModified: '2016-07-24T13:26:27.761Z'
 title: Book Recommendation
 publisher: {}
 description: >-
