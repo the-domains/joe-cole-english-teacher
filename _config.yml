@@ -1,5 +1,5 @@
-layout_spectrum: 0.0335078164935112
-typography_spectrum: 0.07250484451651573
+layout_spectrum: 0.251873551402241
+typography_spectrum: 0.2790146709885448
 color:
   brandStrength: 0.40609478624537587
   lightness: 0.6876867061946541
@@ -12,8 +12,4 @@ color:
     - '#79BD8F'
     - '#00A388'
 name: Joe Cole - English Teacher
-navigation:
-  - id: 98176202-5fad-4916-ab83-07e695dcb785
-    url: 2016-07-23-about-me.html
-    name: About Me
-    type: content
+navigation: []
