@@ -1,4 +1,3 @@
-layout_spectrum: 0.06419099750928581
 typography_spectrum: 0.28299630363471806
 color:
   brandStrength: 0.40609478624537587
@@ -11,5 +10,9 @@ color:
     - '#BEEB9F'
     - '#79BD8F'
     - '#00A388'
+layout_spectrum: 0.06419099750928581
+author:
+  name: Joe Cole
+  email: joe.unlimited@hotmail.com
 name: Joe Cole - English Teacher
 navigation: []
