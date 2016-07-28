@@ -4,7 +4,7 @@
         <description><![CDATA[Joe Cole - English Teacher]]></description>
         <link>https://thegrid.ai/joe-cole-english-teacher/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jul 2016 07:52:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2016 08:04:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/joe-cole-english-teacher/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/joe-cole-english-teacher/about-joe/index.html</link>
             <guid isPermaLink="false">838c303a-6ed4-44c6-8323-96e3785edb69</guid>
             <pubDate>Thu, 28 Jul 2016 02:56:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[GPNU Public Speaking Club]]></title>
+            <description><![CDATA[<article><h1>GPNU Public Speaking Club</h1><p>Every Friday during term time, passionate students at Guangdong Polytechnic Normal University get together to participate in a public speaking workshop. The aim is to develop public speaking skills and strategies while simultaneously practicing the English language. Due to large class size in their regular course, students don’t often get the chance to speak out, so this is an opportunity they relish.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/778756b9-c2c3-4f9a-99ae-cbfb86232e1b.jpg"></article>]]></description>
+            <link>https://thegrid.ai/joe-cole-english-teacher/gpnu-public-speaking-club/index.html</link>
+            <guid isPermaLink="false">d0d89f05-a66a-4f5e-a137-443ae9a9df98</guid>
+            <pubDate>Thu, 28 Jul 2016 08:04:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Book Recommendation]]></title>
@@ -40,13 +47,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/d703e163-772e-4bc9-ab69-77614f88b826.jpg</link>
             <guid isPermaLink="false">8c243b81-8f8b-4bde-894c-7c17d8bb1366</guid>
             <pubDate>Sun, 24 Jul 2016 12:06:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GPNU Public Speaking Club]]></title>
-            <description><![CDATA[<article><h1>GPNU Public Speaking Club</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/778756b9-c2c3-4f9a-99ae-cbfb86232e1b.jpg"></article>]]></description>
-            <link>https://thegrid.ai/joe-cole-english-teacher/gpnu-public-speaking-club/index.html</link>
-            <guid isPermaLink="false">d0d89f05-a66a-4f5e-a137-443ae9a9df98</guid>
-            <pubDate>Sun, 24 Jul 2016 07:25:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
