@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-29T14:25:33.974Z'
+datePublished: '2016-07-29T14:27:40.251Z'
 sourcePath: _posts/2016-07-29-esl-teaching-make-it-a-longterm-thing.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/04a5943a-5332-4bc9-bfc4-8cd5afa609a0.jpg
 author: []
 via: {}
-dateModified: '2016-07-29T14:25:32.621Z'
+dateModified: '2016-07-29T14:25:44.157Z'
 title: ''
 publisher: {}
 description: ESL Teaching - Make It a Longterm Thing
