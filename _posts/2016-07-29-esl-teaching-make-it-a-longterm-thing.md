@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-29T14:20:09.759Z'
+datePublished: '2016-07-29T14:22:36.272Z'
 sourcePath: _posts/2016-07-29-esl-teaching-make-it-a-longterm-thing.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/04a5943a-5332-4bc9-bfc4-8cd5afa609a0.jpg
 author: []
 via: {}
-dateModified: '2016-07-29T14:20:08.821Z'
+dateModified: '2016-07-29T14:20:39.532Z'
 title: ESL Teaching - Make It a Longterm Thing
 publisher: {}
 description: ''
@@ -49,3 +49,4 @@ _type: MediaObject
 ### The industry is bogged down with fleeting teachers who come and go. Simply taking your job seriously and sticking it out will give you a massive advantage. The rewards are huge for anyone passionate enough about ESL teaching to make a career of it.
 
 ### **Joe Cole**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/16ed93b9-3d48-46d5-824a-5b7222889afc.jpg)
