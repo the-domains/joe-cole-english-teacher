@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-29T15:13:02.919Z'
+datePublished: '2016-07-29T15:27:36.895Z'
 sourcePath: _posts/2016-07-29-esl-teaching-make-it-a-longterm-thing.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/04a5943a-5332-4bc9-bfc4-8cd5afa609a0.jpg
 author: []
 via: {}
-dateModified: '2016-07-29T15:12:48.203Z'
+dateModified: '2016-07-29T15:27:31.189Z'
 title: ESL Teaching - Make it a Longterm Thing
 publisher: {}
 description: >-
@@ -34,7 +34,7 @@ But there is a new type of ESL teacher emerging -- the career teacher. Think of 
 
 With four years of experience working in English training centers for adults and children, universities, and as a freelance home tutor, I have learned a few things, and I'd like to pass them on to you. If you are new to this profession, or find yourself in one of the many dead-end teaching jobs out there, I hope this guide will help you reach your potential as an ESL educator.
 
-### **1) Get out of the training centers **
+### **1) Get out of the training centers**
 
 Training centers are very welcoming when you are new to the country. Good ones will provide you with all the support you need to hit the ground running. They are not, however, going to give you the time or money you need to fulfil any of your dreams, and they can quickly become uninspiring dungeons. The salary offered may at first seem pretty good, but that's the ceiling for the rest of your career. Can you see yourself starting a family and buying a house with that kind of money? As soon as you have the experience and the connections you need to make it on your own, get the hell out of there. Universities, examining bodies and freelance jobs are much, much better options for an experienced teacher, with more time off and higher potential earnings to boot.
 
