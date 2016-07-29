@@ -15,6 +15,9 @@ author:
   name: Joe Cole
   email: joe.unlimited@hotmail.com
 name: Joe Cole - English Teacher
-navigation: []
+navigation:
+  - name: About Me
+    id: 838c303a-6ed4-44c6-8323-96e3785edb69
+    type: content
 title: ''
 description: ESL is on a Mission
