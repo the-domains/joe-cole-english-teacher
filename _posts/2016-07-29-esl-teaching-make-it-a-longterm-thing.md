@@ -1,14 +1,21 @@
 ---
-datePublished: '2016-07-29T14:57:43.683Z'
+datePublished: '2016-07-29T15:03:36.183Z'
 sourcePath: _posts/2016-07-29-esl-teaching-make-it-a-longterm-thing.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/04a5943a-5332-4bc9-bfc4-8cd5afa609a0.jpg
 author: []
 via: {}
-dateModified: '2016-07-29T14:57:42.724Z'
+dateModified: '2016-07-29T15:03:13.486Z'
 title: ESL Teaching - Make it a Longterm Thing
 publisher: {}
-description: ''
+description: >-
+  In many minds, ESL (English as a Second Language) teachers are transient
+  backpackers with little or no credentials. We are young and free, chasing
+  thrills, chasing experience, and escaping from the sad fact that we do not
+  have extraordinary lives waiting for us at home. We are adored and
+  romanticized for the hedonistic freedom we represent, but we are also thought
+  of as uneducated, unambitious and unsuccessful. At worst, we are philanderers,
+  drunks and jokers.
 starred: false
 inFeed: true
 hasPage: false
