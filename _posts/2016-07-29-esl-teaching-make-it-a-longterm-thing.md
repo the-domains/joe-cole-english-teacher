@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-29T15:11:52.979Z'
+datePublished: '2016-07-29T15:13:02.919Z'
 sourcePath: _posts/2016-07-29-esl-teaching-make-it-a-longterm-thing.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/04a5943a-5332-4bc9-bfc4-8cd5afa609a0.jpg
 author: []
 via: {}
-dateModified: '2016-07-29T15:11:47.630Z'
+dateModified: '2016-07-29T15:12:48.203Z'
 title: ESL Teaching - Make it a Longterm Thing
 publisher: {}
 description: >-
@@ -44,13 +44,13 @@ You will be hired as a 'foreign _expert_.' That just means you were hired becaus
 
 ### **3) Keep learning**
 
-yourself. An expert teacher is an expert learner. The only way you can dramatically increase your value is through education. Learning to speak the native language and seeking more teaching qualifications are obvious ways to boost your employability. Other ways are to learn more things, through self-study, that could help your students, such as business and finance, or writing skills. A couple of years ago, I decided to learn everything I could about parenting and school curriculums, for example, and that made me the go-to teacher for Chinese parents of international school children in my area.
+An expert teacher is an expert learner. The only way you can dramatically increase your value is through education. Learning to speak the native language and seeking more teaching qualifications are obvious ways to boost your employability. Other ways are to learn more things, through self-study, that could help your students, such as business and finance, or writing skills. A couple of years ago, I decided to learn everything I could about parenting and school curriculums, for example, and that made me the go-to teacher for Chinese parents of international school children in my area.
 
 ### **4) Build your own brand**
 
 By specializing and educating yourself, you are effectively building your own brand, but you've got to market yourself, too, if you want anybody to know the great service you provide. Put yourself out there. Do content marketing on your own website and social networking sites like LinkedIn to get the word out. Join groups and find side projects, and publish everything you're involved in, creating a kind of online résumé. Having a quiet week? Do some event marketing -- a nice free English corner will be a great way to show others what you can do. Make sure you are the first teacher people think of when they are searching for one.
 
-**5) Make it a long-term thing**
+### **5) Make it a long-term thing**
 
 The industry is bogged down with fleeting teachers who come and go. Simply taking your job seriously and sticking it out will give you a massive advantage. The rewards are huge for anyone passionate enough about ESL teaching to make a career of it.
 
