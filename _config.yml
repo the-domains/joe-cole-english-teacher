@@ -16,7 +16,7 @@ author:
   email: joe.unlimited@hotmail.com
 name: Joe Cole - English Teacher
 navigation:
-  - name: About Me
+  - name: About
     id: 838c303a-6ed4-44c6-8323-96e3785edb69
     type: content
   - name: LinkedIn
