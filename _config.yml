@@ -19,5 +19,9 @@ navigation:
   - name: About Me
     id: 838c303a-6ed4-44c6-8323-96e3785edb69
     type: content
+  - name: LinkedIn
+    url: >-
+      http://www.linkedin.com/in/joe-cole-6810b7b9?trk=nav_responsive_tab_profile
+    type: external
 title: ''
 description: ESL is on a Mission
