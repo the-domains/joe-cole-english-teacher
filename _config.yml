@@ -23,5 +23,8 @@ navigation:
     url: >-
       http://www.linkedin.com/in/joe-cole-6810b7b9?trk=nav_responsive_tab_profile
     type: external
+  - name: Contact Me
+    url: 'http://www.123contactform.com/form-2113579/Contact-Lead-Form'
+    type: external
 title: ''
 description: ESL is on a Mission
