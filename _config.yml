@@ -1,4 +1,5 @@
-typography_spectrum: 0.49017470655962825
+layout_spectrum: 0.7461433017160743
+typography_spectrum: 0.09701837343163788
 color:
   brandStrength: 0.9638162171468139
   lightness: 0.6380815515294671
@@ -10,7 +11,6 @@ color:
     - '#5A5655'
     - '#14AE66'
     - '#C10E23'
-layout_spectrum: 0.5923620932735503
 author:
   name: Joe Cole
   email: joe.unlimited@hotmail.com
