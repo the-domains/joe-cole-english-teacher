@@ -1,17 +1,17 @@
 ---
-datePublished: '2016-09-01T07:41:30.864Z'
+datePublished: '2016-09-01T07:42:23.030Z'
+sourcePath: >-
+  _posts/2016-09-01-the-standard-english-course-gives-you-a-strong-foundation-in.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-01T07:41:15.427Z'
+dateModified: '2016-09-01T07:42:17.856Z'
 title: ''
 publisher: {}
 description: >-
   The Standard English Course gives you a strong foundation in loads of common
-  topics. You will improve your speaking, listening, reading, and writing. 
+  topics. You will improve your speaking, listening, reading, and writing.
 starred: false
-sourcePath: >-
-  _posts/2016-09-01-the-standard-english-course-gives-you-a-strong-foundation-in.md
 _type: Blurb
 
 ---
